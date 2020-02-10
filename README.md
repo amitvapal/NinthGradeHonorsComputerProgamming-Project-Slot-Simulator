@@ -1,4 +1,4 @@
-# Slots
+# Project Name: Slots
 
 Bet a number of credits if the 2 of the three Images are the same then you receive the amount of credits that you bet. You start put with 10 total credits if you bet and lose all your credits you lose.
 
@@ -7,11 +7,11 @@ Bet a number of credits if the 2 of the three Images are the same then you recei
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
-
-What things you need to install the software and how to install them
+Need to install Pygame and use Wing 2.7.4
 
 ```
-Give examples
+Wing 2.7.4
+Pygame Installer
 ```
 
 ### Installing
