@@ -8,73 +8,23 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 Once the program is executed, you would see simulated slot machine with total starting credits 10. 
-
 ![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1.png)
 
 
-
 Bets start with default 1 credit. Press keyboard arrow keys to increase or decrease bet credits. Lets bet for 4 credits and then press enter 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture4.png)
 
  Wow! , we got two slots with “orange” pictures. We won 4 credits. Now total credits increased to 14.  
-
-
-
-
-
-
-
-
-
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture2.png)
 
 On the other hand, if all slots show different pictures, we lose. Total points reduced to 6
 
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture5.png)
 
 Say we bet again for 6
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture6.png)
  Alas! We lost six credits again. Gave over
-
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture7-gave-over.png)
 
 
 
