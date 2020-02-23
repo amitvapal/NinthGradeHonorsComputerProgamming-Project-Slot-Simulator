@@ -1,87 +1,96 @@
-# Project Name: Slots
-
-Bet a number of credits if the 2 of the three Images are the same then you receive the amount of credits that you bet. You start put with 10 total credits if you bet and lose all your credits you lose.
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+# Project Name: Slot Simulator
+User starts with 10 total credits. Bet a number between 1 to 10 credits. If the two of the three Images in slot are same, user wins the amount of credits that user bets thus increasing total credits and vice a verse.
 ### Prerequisites
-Need to install Pygame and use Wing 2.7.4
-
-```
-Wing 2.7.4
-Pygame Installer
-```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Following Software tools used to build game “Slot Simulator”
+Python 3.7.1
+Pygame 1.9.6
+Wing Editor 7.1.0.2
 
 ## Running the tests
+Once the program is executed, you would see simulated slot machine with total starting credits 10. 
 
-Explain how to run the automated tests for this system
 
-### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
-### And coding style tests
+Bets start with default 1 credit. Press keyboard arrow keys to increase or decrease bet credits. Lets bet for 4 credits and then press enter 
 
-Explain what these tests test and why
 
-```
-Give an example
-```
 
-## Deployment
 
-Add additional notes about how to deploy this on a live system
 
-## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
-## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+
+
+
+
+ Wow! , we got two slots with “orange” pictures. We won 4 credits. Now total credits increased to 14.  
+
+
+
+
+
+
+
+
+
+
+On the other hand, if all slots show different pictures, we lose. Total points reduced to 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+Say we bet again for 6
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Alas! We lost six credits again. Gave over
+
+
+
+
+To keep playing. Restart the game.
+
+
+
+
+  
+## Author
+
+* **Amitva Pal**
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+https://www.pygame.org/docs
+https://www.pygame.org/docs/tut/newbieguide.html
+https://www.pygame.org/docs/tut/MoveIt.html
+https://pythonprogramming.net/displaying-images-pygame/
+http://www.cogsci.rpi.edu/~destem/igd/pygame_cheat_sheet.pdf
