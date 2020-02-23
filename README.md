@@ -8,7 +8,7 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, you would see simulated slot machine with total starting credits 10. 
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1.png)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1.png =100x20)
 
 
 Bets start with default 1 credit. Press keyboard arrow keys to increase or decrease bet credits. Lets bet for 4 credits and then press enter 
