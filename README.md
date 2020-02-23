@@ -7,7 +7,7 @@ Pygame 1.9.6
 Wing Editor 7.1.0.2
 
 ## Running the tests
-Once the program is executed, you would see simulated slot machine with total starting credits 10. 
+1. Once the program is executed, you would see simulated slot machine with total starting credits 10. 
 ![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1.png)
 
 
