@@ -89,8 +89,8 @@ To keep playing. Restart the game.
 * **Amitva Pal**
 
 ## Acknowledgments
-https://www.pygame.org/docs
-https://www.pygame.org/docs/tut/newbieguide.html
-https://www.pygame.org/docs/tut/MoveIt.html
-https://pythonprogramming.net/displaying-images-pygame/
-http://www.cogsci.rpi.edu/~destem/igd/pygame_cheat_sheet.pdf
+- https://www.pygame.org/docs
+- https://www.pygame.org/docs/tut/newbieguide.html
+- https://www.pygame.org/docs/tut/MoveIt.html
+- https://pythonprogramming.net/displaying-images-pygame/
+- http://www.cogsci.rpi.edu/~destem/igd/pygame_cheat_sheet.pdf
