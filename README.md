@@ -8,7 +8,6 @@ Wing Editor 7.1.0.2
 
 ## Running the tests
 1. Once the program is executed, you would see simulated slot machine with total starting credits 10. 
-Inline-style:
 ![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture1.png =100x20)
 
 
@@ -24,6 +23,7 @@ On the other hand, if all slots show different pictures, we lose. Total points r
 
 Say we bet again for 6
 ![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture6.png =100x20)
+
  Alas! We lost six credits again. Gave over
 ![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture7-gave-over.png =100x20)
 
