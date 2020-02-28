@@ -12,20 +12,20 @@ Wing Editor 7.1.0.2
 
 
 Bets start with default 1 credit. Press keyboard arrow keys to increase or decrease bet credits. Lets bet for 4 credits and then press enter 
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture4.png)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture4-2.png)
 
  Wow! , we got two slots with “orange” pictures. We won 4 credits. Now total credits increased to 14.  
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture2.png)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture2-2.png)
 
 On the other hand, if all slots show different pictures, we lose. Total points reduced to 6
 
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture5.png =100x20)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture5-2.png =100x20)
 
 Say we bet again for 6
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture6.png)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture6-2.png)
 
  Alas! We lost six credits again. Gave over
-![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture7-gave-over.png)
+![](https://github.com/amitvapal/NinthGradeHonorsComputerProgamming-Project-Slot-Simulator/blob/master/Images/Picture7-2-game-over.png)
 
 
 
